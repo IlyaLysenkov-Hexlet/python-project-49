@@ -2,6 +2,8 @@
 [![Actions Status](https://github.com/IlyaLysenkov-Hexlet/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/IlyaLysenkov-Hexlet/python-project-49/actions)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=IlyaLysenkov-Hexlet_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=IlyaLysenkov-Hexlet_python-project-49)
 
+#for test issues
+
 Описание проекта:
 
 Проект содержит в себе 5 логико-математических игр, в каждой игре представлены 3 раунда, в случае правильного ответа. В случае неверного ответа - игра завершается.
